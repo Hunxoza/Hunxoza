@@ -82,7 +82,7 @@ Feel free to reach out or connect with me â€“ let's code the future together! ðŸ
     - Improving the utilization of UDP networks for receiving research data to enhance efficiency and planning for future development.
     - Decoding of the DR-172 ADV and TRML radars.
  
-- ### <a href="">Research: Exploring the Impact of Organizing Events to Self-Learning Behavior on an Online Learning Platform</a>
+- ### <a href="docs/pdf/report.pdf">Research: Exploring the Impact of Organizing Events to Self-Learning Behavior on an Online Learning Platform</a>
 
     - This paper examines self-learning behavior on an online learning platform.
     - Using Python and MySQL for data preparation steps and statistical methods for analysis.
