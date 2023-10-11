@@ -29,14 +29,14 @@ Feel free to reach out or connect with me â€“ let's code the future together! ðŸ
 
 - ### Bachelor of Science in Computer Science
 
-<a href="http://www.sa.ac.th/web/"><img src="docs/logo/sa.jpg" width="200px" height="200px" alt="" /></a>
+<a href="http://www.sa.ac.th/web/"><img src="docs/logo/bu-logo.png" width="200px" height="200px" alt="" /></a>
 
       Aug 2021 - Present
       Bangkok University, Pathum Thani
 
 - ### Computer Sciences Program
 
-<a href="https://www.bu.ac.th/th/"><img src="docs/logo/bu-logo.png" width="200px" height="200px" alt="" /></a>
+<a href="https://www.bu.ac.th/th/"><img src="docs/logo/sa.jpg" width="200px" height="200px" alt="" /></a>
 
     May 2019 - Nov 2020
     Satri Angthong, Ang Thong
