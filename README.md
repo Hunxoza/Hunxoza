@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 🚀 Undergraduate Student | Full-Stack Game Developer | Data Enthusiast 📊
 
-👋 Hello, I'm Ruethaimata Kwangate, an ambitious undergraduate student with a passion for technology and a diverse coding background. My journey in the tech world has led me to explore a wide range of areas, from full-stack game development 🎮 to creating desktop applications 💻, web development 🌐, and data analysis 📈.
+👋 An ambitious undergraduate student with a passion for technology and a diverse coding background. My journey in the tech world has led me to explore a wide range of areas, from full-stack game development 🎮 to creating desktop applications 💻, web development 🌐, and data analysis 📈.
 
 🔗 My experiences have been invaluable in shaping my skills, and I'm now interest in the realm of data engineering and database work. I'm driven by a relentless desire to design and build robust data-driven solutions that make a real impact.
 
