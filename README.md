@@ -29,7 +29,7 @@ Feel free to reach out or connect with me â€“ let's code the future together! ðŸ
 
 - ### Bachelor of Science in Computer Science
 
-<a href="http://www.sa.ac.th/web/"><img src="doc/logo/sa.png" width="200px" height="200px" alt="" /></a>
+<a href="http://www.sa.ac.th/web/"><img src="docs/logo/sa.jpg" width="200px" height="200px" alt="" /></a>
 
       Aug 2021 - Present
       Bangkok University, Pathum Thani
