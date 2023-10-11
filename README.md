@@ -24,6 +24,7 @@ Feel free to reach out or connect with me – let's code the future together! �
 - [EDUCATION 🎓](#education-)
 - [SKILLS 📖](#skills-)
 - [LANGUAGES 🔡](#languages-)
+- [PROJECT EXPERIENCES 👨‍💻](#project-experiences-)
 
 ## EDUCATION 🎓
 
@@ -73,3 +74,5 @@ Feel free to reach out or connect with me – let's code the future together! �
 [![General badge](https://img.shields.io/badge/Thai-Native-blue)](https://shields.io/)
 &nbsp;
 [![General badge](https://img.shields.io/badge/English-Good-good)](https://shields.io/)
+
+## PROJECT EXPERIENCES 👨‍💻
