@@ -36,7 +36,7 @@ Feel free to reach out or connect with me â€“ let's code the future together! ðŸ
 
 - ### Computer Sciences Program
 
-<a href="https://www.bu.ac.th/th/"><img src="doc/logo/bu-logo.png" width="200px" height="200px" alt="" /></a>
+<a href="https://www.bu.ac.th/th/"><img src="docs/logo/bu-logo.png" width="200px" height="200px" alt="" /></a>
 
     May 2019 - Nov 2020
     Satri Angthong, Ang Thong
