@@ -30,14 +30,14 @@ Feel free to reach out or connect with me – let's code the future together! �
 
 - ### Bachelor of Science in Computer Science
 
-<a href="http://www.sa.ac.th/web/"><img src="docs/logo/bu-logo.png" width="200px" height="200px" alt="" /></a>
+<a href="http://www.sa.ac.th/web/"><img src="docs/logo/bu-logo.png" width="200px" height="200px" alt="" />
 
       Aug 2021 - Present
       Bangkok University, Pathum Thani
 
 - ### Computer Sciences Program
 
-<a href="https://www.bu.ac.th/th/"><img src="docs/logo/sa.jpg" width="200px" height="200px" alt="" /></a>
+<a href="https://www.bu.ac.th/th/"><img src="docs/logo/sa.jpg" width="200px" height="200px" alt="" />
 
     May 2019 - Nov 2020
     Satri Angthong, Ang Thong
@@ -76,3 +76,34 @@ Feel free to reach out or connect with me – let's code the future together! �
 [![General badge](https://img.shields.io/badge/English-Good-good)](https://shields.io/)
 
 ## PROJECT EXPERIENCES 👨‍💻
+
+- ### <a href="">Utilizing UDP Network for Data Reception in Radar Decoding</a>
+
+    - Improving the utilization of UDP networks for receiving research data to enhance efficiency and planning for future development.
+    - Decoding of the DR-172 ADV and TRML radars.
+ 
+- ### <a href="">Research: Exploring the Impact of Organizing Events to Self-Learning Behavior on an Online Learning Platform</a>
+
+    - This paper examines self-learning behavior on an online learning platform.
+    - Using Python and MySQL for data preparation steps and statistical methods for analysis.
+ 
+- ### <a href="https://codingformetaversecontest.com/">Coding for Metaverse Contest Website</a>
+
+    - A website for publicizing and organizing contest.
+    - Develop the front end using Next.js
+
+- ### <a href="https://youtu.be/q0-dwqfoGHU?si=jeKNne-8dH5bcBdD">BU Friends</a>
+
+    - Desktop application for finding friends at the university during the Covid-19 pandemic.
+    - Using Python GUI for development and SQLite database to store data.
+
+- ### <a href="https://www.youtube.com/watch?v=amzoLCOb4U4">BABEL</a>
+
+    - Tower-building game that requires the management of resources that can be produced and are limited to use in building taller towers.
+    - Using Unity C# for client-side development and PHP to create an API to connect to a MySQL database.
+
+- ### <a href="https://play.google.com/store/apps/details?id=com.GISchoolLab.PPGL&hl=en&gl=US">Play Plern Learn Ground</a>
+
+    - Cross-platform game for learning English vocabulary in the form of a Massive Multiplayer Online game.
+    - For Android, download it on the Play Store, and for PC, download it from the website.
+    - Using Unity C# for client-side development and Node.js to create an API to connect to a MySQL database.
