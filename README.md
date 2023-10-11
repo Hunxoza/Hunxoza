@@ -1,20 +1,19 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ruethaimata Kwangate
 ============================================================================================================================================
 
-👨‍💻 Passionate Computer Science Student and Developer 🚀 
-Welcome to my profile! 🌟 I'm a dedicated computer science student and developer with a deep-rooted love for coding that has been flourishing over the past 5-6 years. My journey began in a classroom, where I first dabbled with the enchanting world of C. Since then, I've been on an exhilarating adventure, continually discovering my purpose in the realm of programming. 
+"🚀 Undergraduate Student | Full-Stack Game Developer | Data Enthusiast 📊
 
-🎯 My trajectory has led me through various dimensions of coding. From game development to web development, from honing front-end finesse to diving deep into back-end complexities, and even exploring the insights of data analysis – I've ventured into diverse territories to learn, grow, and innovate. 
+👋 Hello, I'm Ruethaimata Kwangate, an ambitious undergraduate student with a passion for technology and a diverse coding background. My journey in the tech world has led me to explore a wide range of areas, from full-stack game development 🎮 to creating desktop applications 💻, web development 🌐, and data analysis 📈.
 
-🔍 As I navigate this dynamic landscape, I'm still on a quest to uncover that one aspect of programming that truly captures my heart. The beauty of this journey lies in the exploration, and I am committed to the process of discovering my true passion. 
+🔗 My experiences have been invaluable in shaping my skills, and I'm now interest in the realm of data engineering and database work. I'm driven by a relentless desire to design and build robust data-driven solutions that make a real impact.
 
-🌐 Lately, my curiosity has been piqued by the power of Flutter and Python. The potential they hold to create seamless user experiences and versatile solutions has ignited a fire within me. But my appetite for knowledge doesn't stop here; I'm determined to explore more, especially when it comes to the fascinating realm of database management. 
+🔧 With a toolbox that includes coding, problem-solving, and an curiosity, I'm excited to take on the challenges of managing, optimizing, and engineering data for organizations. Data is the lifeblood of modern businesses, and I'm committed to helping them harness its potential.
 
-💡 If you're passionate about technology, coding, or just connecting with fellow enthusiasts, feel free to reach out. Let's share our insights, experiences, and perhaps even embark on collaborative ventures. The future of innovation is exciting, and I can't wait to see the incredible things we can achieve together.
+🌐 Let's connect and explore the fascinating world of data together! Whether you're a fellow enthusiast, a mentor, or someone looking to collaborate on exciting data projects, I'm always open to new connections and opportunities.
 
-* 🌍  I'm based in Thailand
-* ✉️  You can contact me at [hunsa.dev@gmail.com](mailto:hunsa.dev@gmail.com)
-* 🧠  I'm learning Flutter, Python and Database system
+📚 Current Focus: Data Engineering, Database Management, and Creating Data-Driven Solutions
+
+Feel free to reach out or connect with me – let's code the future together! 🌟"
 
 ### Skills
 
