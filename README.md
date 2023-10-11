@@ -41,7 +41,7 @@ Feel free to reach out or connect with me – let's code the future together! �
     May 2019 - Nov 2020
     Satri Angthong, Ang Thong
 
-## Skills 📖
+## SKILLS 📖
 
 - ### Technical Skills
 
