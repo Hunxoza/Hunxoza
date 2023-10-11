@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ruethaimata Kwangate
 ============================================================================================================================================
 
-"🚀 Undergraduate Student | Full-Stack Game Developer | Data Enthusiast 📊
+🚀 Undergraduate Student | Full-Stack Game Developer | Data Enthusiast 📊
 
 👋 Hello, I'm Ruethaimata Kwangate, an ambitious undergraduate student with a passion for technology and a diverse coding background. My journey in the tech world has led me to explore a wide range of areas, from full-stack game development 🎮 to creating desktop applications 💻, web development 🌐, and data analysis 📈.
 
