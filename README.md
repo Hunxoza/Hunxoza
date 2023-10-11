@@ -77,7 +77,7 @@ Feel free to reach out or connect with me – let's code the future together! �
 
 ## PROJECT EXPERIENCES 👨‍💻
 
-- ### <a href="" target="_blank">Utilizing UDP Network for Data Reception in Radar Decoding</a>
+- ### <a href="">Utilizing UDP Network for Data Reception in Radar Decoding</a>
 
     - Improving the utilization of UDP networks for receiving research data to enhance efficiency and planning for future development.
     - Decoding of the DR-172 ADV and TRML radars.
