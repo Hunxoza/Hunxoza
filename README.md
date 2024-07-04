@@ -1,4 +1,7 @@
 <h1 align="center"> Hi! My name is Ruethaimata Kwangate </h1>
+<h1 align="center"> Not uo to date </h1>
+
+
 <h3 align="center">
 
 [![Site preview](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hunsa.dev@gmail.com?subject)
