@@ -1,5 +1,5 @@
 <h1 align="center"> Hi! My name is Ruethaimata Kwangate </h1>
-<h1 align="center"> Not uo to date </h1>
+<h3 align="center"> Not up to date </h3>
 
 
 <h3 align="center">
