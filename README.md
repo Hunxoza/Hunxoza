@@ -4,6 +4,7 @@
 
 <h3 align="center">
 
+[![Site preview](https://img.shields.io/badge/Website-grey?style=for-the-badge&logoColor=white)](https://hunxoza.github.io/)
 [![Site preview](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hunsa.dev@gmail.com?subject)
 [![Site preview](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruethaimata-kwangate/)
 </h3>
