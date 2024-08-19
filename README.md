@@ -19,7 +19,7 @@
 
 🌐 Let's connect and explore the fascinating world of data together! Whether you're a fellow enthusiast, a mentor, or someone looking to collaborate on exciting data projects, I'm always open to new connections and opportunities.
 
-📚 Current Focus: Data Engineering, Database Management, and Creating Data-Driven Solutions
+📚 Current Focus: Data Work(Data engineering/Data sciece/Data analysis), and Backend devepment
 
 Feel free to reach out or connect with me – let's code the future together! 🌟"
 
