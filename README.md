@@ -1,4 +1,4 @@
-<h1 align="center"> Hi! My name is Ruethaimata Kwangate </h1>
+<h1 align="center"> Hi! My name is Roslyn Kwangate </h1>
 <h3 align="center"> Not up to date </h3>
 
 
